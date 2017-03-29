@@ -1,4 +1,4 @@
-### GAN-related
+##### GAN-related
 GAN related research area
 
 ## image generation
