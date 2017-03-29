@@ -1,9 +1,9 @@
-# GAN-related
+## GAN-related
 GAN related research area
 
-图像生成  
+## image generation
 
-图像编辑  
+## image editing
 Image Inpainting
 Semantic Image Inpainting with Perceptual and Contextual Losses  2016 arxiv
 
