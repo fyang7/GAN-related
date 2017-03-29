@@ -7,3 +7,6 @@ GAN related research area
 Image Inpainting
 Semantic Image Inpainting with Perceptual and Contextual Losses  2016 arxiv
 
+
+[link](www.baidu.com)
+
