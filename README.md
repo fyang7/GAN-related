@@ -2,6 +2,8 @@
 GAN related research area
 
 ### image generation
+training sample generate  
+A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [pdf](https://arxiv.org/abs/1704.03414)  
 ### image editing
 Image Inpainting
 Semantic Image Inpainting with Perceptual and Contextual Losses  2016 arxiv
