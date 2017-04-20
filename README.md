@@ -24,9 +24,9 @@ https://github.com/soumith/ganhacks
 Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)
 
 
-### pixel RNN  
+## pixel RNN  
 
 
 
-### super resolution  
+## super resolution  
 
