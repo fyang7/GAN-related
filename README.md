@@ -7,7 +7,7 @@ A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[pdf](
 
 ### image editing
 Image Inpainting
-Semantic Image Inpainting with Perceptual and Contextual Losses [[pdf](https://arxiv.org/abs/1607.07539)]
+Semantic Image Inpainting with Perceptual and Contextual Losses [[pdf](https://arxiv.org/abs/1607.07539)]  
 Context Encoders: Feature Learning by Inpainting [[pdf](https://arxiv.org/abs/1604.07379)]  
 - [dualGAN](https://github.com/duxingren14/DualGAN)  
 - [cycleGAN](https://github.com/junyanz/CycleGAN)  
