@@ -23,7 +23,7 @@ https://github.com/soumith/ganhacks
 [zhihu专栏LS-GAN](https://zhuanlan.zhihu.com/p/25204020?group_id=818602658100305920) 
 
 ### 资料
-Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)
+Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)  
 GAN的相关最新论文整理 ([github](https://github.com/zhangqianhui/AdversarialNetsPapers))
 
 ## pixel RNN  
