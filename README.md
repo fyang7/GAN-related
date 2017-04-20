@@ -24,7 +24,7 @@ https://github.com/soumith/ganhacks
 
 ### 资料
 Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)
-
+GAN的相关最新论文整理 ([github](https://github.com/zhangqianhui/AdversarialNetsPapers))
 
 ## pixel RNN  
 Pixel Recursive Super Resolution [[pdf](https://arxiv.org/abs/1702.00783)]
