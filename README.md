@@ -2,6 +2,8 @@
 ### image generation
 training sample generate  
 A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection [[pdf](https://arxiv.org/abs/1704.03414)]  
+DCGAN
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[pdf](https://arxiv.org/abs/1511.06434)]  
 
 ### image editing
 Image Inpainting
