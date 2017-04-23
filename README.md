@@ -8,6 +8,9 @@ Unsupervised Representation Learning with Deep Convolutional Generative Adversar
 ### image editing
 Image Inpainting
 Semantic Image Inpainting with Perceptual and Contextual Losses [[pdf](https://arxiv.org/abs/1607.07539)]  
+[[code](https://github.com/bamos/dcgan-completion.tensorflow)]  
+[[blog](http://chuansong.me/n/510191742178)]  
+
 Context Encoders: Feature Learning by Inpainting [[pdf](https://arxiv.org/abs/1604.07379)]  
 - [dualGAN](https://github.com/duxingren14/DualGAN)  
 - [cycleGAN](https://github.com/junyanz/CycleGAN)  
