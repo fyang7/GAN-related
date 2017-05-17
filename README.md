@@ -19,6 +19,9 @@ Context Encoders: Feature Learning by Inpainting [[pdf](https://arxiv.org/abs/16
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[pdf](https://arxiv.org/abs/1703.10593)]  
 Image-to-Image Translation with Conditional Adversarial Networks [[pdf](https://arxiv.org/abs/1611.07004)]  
 
+### theory  
+Towards Principled Methods For Training Generative Adversarial Networks  [[pdf](https://arxiv.org/pdf/1701.04862.pdf)]  
+
 ### training tricks
 https://github.com/soumith/ganhacks
 
