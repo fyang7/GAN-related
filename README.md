@@ -29,6 +29,7 @@ https://github.com/soumith/ganhacks
 [zhihu]  
 [zhihu专栏WGAN原理](https://zhuanlan.zhihu.com/p/25071913)         
 [zhihu专栏LS-GAN](https://zhuanlan.zhihu.com/p/25204020?group_id=818602658100305920) 
+[generative model blog](http://www.inference.vc/)
 
 ### 资料
 Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)  
