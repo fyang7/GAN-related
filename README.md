@@ -27,14 +27,15 @@ https://github.com/soumith/ganhacks
 
 ### reference  
 [zhihu]  
-[zhihu专栏WGAN原理](https://zhuanlan.zhihu.com/p/25071913)         
+[zhihu专栏WGAN原理](https://zhuanlan.zhihu.com/p/25071913)           
 [zhihu专栏LS-GAN](https://zhuanlan.zhihu.com/p/25204020?group_id=818602658100305920) 
-[generative model blog](http://www.inference.vc/)
+[zhihu专栏PM infoGAN adversial autoencoder](https://zhuanlan.zhihu.com/p/27159510)）  
+[generative model blog](http://www.inference.vc/)  
 
 ### 资料
 Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)  
 GAN的相关最新论文整理 ([github](https://github.com/zhangqianhui/AdversarialNetsPapers))  
-PM infoGAN adversial autoencoder的联系 （[知乎](https://zhuanlan.zhihu.com/p/27159510)）
+
 
 ## pixel RNN  
 Pixel Recursive Super Resolution [[pdf](https://arxiv.org/abs/1702.00783)]
