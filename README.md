@@ -26,10 +26,9 @@ Towards Principled Methods For Training Generative Adversarial Networks  [[pdf](
 https://github.com/soumith/ganhacks
 
 ### reference  
-[zhihu]  
 [zhihu专栏WGAN原理](https://zhuanlan.zhihu.com/p/25071913)           
-[zhihu专栏LS-GAN](https://zhuanlan.zhihu.com/p/25204020?group_id=818602658100305920) 
-[zhihu专栏PM infoGAN adversial autoencoder](https://zhuanlan.zhihu.com/p/27159510)）  
+[zhihu专栏LS-GAN](https://zhuanlan.zhihu.com/p/25204020)   
+[zhihu专栏PM infoGAN adversial autoencoder](https://zhuanlan.zhihu.com/p/27159510)   
 [generative model blog](http://www.inference.vc/)  
 
 ### 资料
