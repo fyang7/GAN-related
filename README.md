@@ -32,7 +32,7 @@ https://github.com/soumith/ganhacks
 
 ### 资料
 Momenta内部GAN paper阅读分享，比较基础。[下载](https://pan.baidu.com/s/1dFKfTtR)  
-GAN的相关最新论文整理 ([github](https://github.com/zhangqianhui/AdversarialNetsPapers))
+GAN的相关最新论文整理 ([github](https://github.com/zhangqianhui/AdversarialNetsPapers))  
 PM infoGAN adversial autoencoder的联系 （[知乎](https://zhuanlan.zhihu.com/p/27159510)）
 
 ## pixel RNN  
